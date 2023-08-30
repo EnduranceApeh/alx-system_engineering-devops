@@ -10,4 +10,5 @@
 9-firstdirdeletion:- A shell script that delete the directory my_first_directorythat is in the /tmp director
 9-firstdirdeletion:- A shell script that delete the directory my_first_directorythat is in the /tmp directory
 10-back:- A shell script that change the working directory to the previious one
-11-lists:- A shell script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format. 
+11-lists:- A shell script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
+12-file_type:- Write a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script. 
