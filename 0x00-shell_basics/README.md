@@ -8,4 +8,5 @@
 7-movethatfile:- A shell script that move the file betty from /tmp to /tmp/my_first_directory
 8-firstdelete:- A shell script that delete the file bettu in /tmp/my-first_directory
 9-firstdirdeletion:- A shell script that delete the directory my_first_directorythat is in the /tmp director
-9-firstdirdeletion:- A shell script that delete the directory my_first_directorythat is in the /tmp directory 
+9-firstdirdeletion:- A shell script that delete the directory my_first_directorythat is in the /tmp directory
+10-back:- A shell script that change the working directory to the previious one 
