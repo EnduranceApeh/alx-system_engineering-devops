@@ -9,4 +9,5 @@
 8-firstdelete:- A shell script that delete the file bettu in /tmp/my-first_directory
 9-firstdirdeletion:- A shell script that delete the directory my_first_directorythat is in the /tmp director
 9-firstdirdeletion:- A shell script that delete the directory my_first_directorythat is in the /tmp directory
-10-back:- A shell script that change the working directory to the previious one 
+10-back:- A shell script that change the working directory to the previious one
+11-lists:- A shell script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format. 
