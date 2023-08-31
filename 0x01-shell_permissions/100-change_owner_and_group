@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo ch -own -grp vicent staff
+sudo chown vicent chgrp staff -R .
