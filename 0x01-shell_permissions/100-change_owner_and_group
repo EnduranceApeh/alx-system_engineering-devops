@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo ch -own -grp vicent staff
