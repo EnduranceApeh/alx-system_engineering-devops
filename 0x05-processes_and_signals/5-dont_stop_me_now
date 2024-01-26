@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
 # This script terminate a process
-kill 9264
+process_name="4-to_infinity_and_beyond"
+pid=$(pgrep -f "$process_name")
+kill "$pid"
