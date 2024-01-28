@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# This script display the content of a directory
+
+file="$(ls)"
+for f in $file;
+do
+	echo "$f" | cut -d "-" -f2
+done	
