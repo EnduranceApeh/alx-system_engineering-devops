@@ -12,5 +12,5 @@ do
 		((j++))
 		echo "$j"
 	done
-	echo "Hours: $i"
+	echo "Hour: $i"
 done
