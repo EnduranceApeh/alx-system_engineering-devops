@@ -4,7 +4,7 @@
 # Display Fizz when number is multiple of 3
 # Display Buzz when number is a multiple of 5
 # Otherwise, dispaly the number
-i=0
+i=1
 while [ $i -lt 101 ]
 do
 	if (( i % 3 == 0 && i % 5 == 0 ))
