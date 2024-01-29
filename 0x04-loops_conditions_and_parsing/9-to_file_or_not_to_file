@@ -17,7 +17,7 @@ then
 	# check if the file is a regular
 	if [ -f "$file_path" ]
 	then
-		echo "school is regular a file"
+		echo "school is a regular file"
 	fi
 
 else
