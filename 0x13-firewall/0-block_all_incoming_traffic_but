@@ -1,0 +1,15 @@
+# Update package index and install ufw
+sudo apt update
+sudo apt-get install -y ufw
+
+# Deny incoming traffic and allow outgoing
+sudo ufw default deny incoming
+sudo ufw default allow outgoing
+
+# Configure ufw
+sudo ufw allow 22
+sudo ufw allow 443
+sudo ufw allow 80
+
+# Enable ufw to apply configurations
+sudo ufw enable
